@@ -3,7 +3,7 @@
 This repository is a playground to study practices around data exploration and numerical experimentation.
 Currently it has contents about
 
-* the two envelope problem
+* [the two envelope paradox](http://nbviewer.ipython.org/github/jotterbach/Data-Exploration-and-Numerical-Experimentation/blob/master/Numerical-Experimentation/The%20Two%20Envelope%20Paradox.ipynb)
 
 Contributions are welcome!
 
