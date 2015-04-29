@@ -58,3 +58,6 @@ target/
 
 # IPython notebooks checkpoints
 *.ipynb_checkpoints
+
+.DS_Store
+*.csv
