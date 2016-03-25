@@ -9,6 +9,8 @@ Current contents:
 
 * [Sentiment analysis of weather related tweets](http://nbviewer.ipython.org/github/jotterbach/Data-Exploration-and-Numerical-Experimentation/blob/master/Data-Analytics/Sentiment%20analysis%20of%20weather%20related%20tweets.ipynb)
 
+* [PCA and some of its Pitfalls](https://github.com/jotterbach/Data-Exploration-and-Numerical-Experimentation/blob/master/Data-Analytics/PCA_Pitfalls.ipynb)
+
 ## Numerical Experimentation
 
 * [the two envelope paradox](http://nbviewer.ipython.org/github/jotterbach/Data-Exploration-and-Numerical-Experimentation/blob/master/Numerical-Experimentation/The%20Two%20Envelope%20Paradox.ipynb)
